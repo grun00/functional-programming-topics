@@ -1,3 +1,3 @@
 ## functional-programming-topics
 
-![Elixir](./Languages/elixir.md)
+[Elixir](./Languages/elixir.md)
