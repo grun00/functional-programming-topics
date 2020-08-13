@@ -25,7 +25,6 @@ pacman -S elixir
 
 * Ubuntu 14.04/16.04/17.04/18.04/19.04 or Debian 7/8/9/10
 
-    Add Erlang Solutions repository:
 ```
 wget https://packages.erlang-solutions.com/erlang-solutions_2.0_all.deb
 sudo dpkg -i erlang-solutions_2.0_all.deb
