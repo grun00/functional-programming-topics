@@ -148,4 +148,15 @@ iex(n) > MyAwesomeAlias.puts('That was an alias')
 
 ![documentation](./Elixir_images/documentation.png)
 
+* You can also use the **@spec** variable to store information about the types of the functions
 
+``` elixir
+defmodule Math do
+
+  @spec add(number, number) :: number
+  def add(a, b) do
+    a + b
+  end
+end
+
+```
